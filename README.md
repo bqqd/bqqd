@@ -3,7 +3,7 @@
 ---
 
 # ⭐ About Me:
-hey guys! it's me bqqd. i want to do something great in tech.
+hey guys! it's me bqqd. i wanna be a competitive programmer
 
 
 # 👨‍💻 Tech Stack:
