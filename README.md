@@ -1,3 +1,7 @@
+[![](https://komarev.com/ghpvc/?username=bqqd&icon=0&color=blueviolet&label=P+R+O+F+I+L+E++V+I+E+W+S&style=for-the-badge)](https://visitcount.itsvg.in)
+
+---
+
 # 💫 About Me:
 hey guys! it's me bqqd. i want to do something great in tech.
 
@@ -10,6 +14,6 @@ hey guys! it's me bqqd. i want to do something great in tech.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bqqd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=bqqd&icon=0&color=blueviolet&label=P+R+O+F+I+L+E++V+I+E+W+S)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
